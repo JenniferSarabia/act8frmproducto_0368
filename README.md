@@ -1,17 +1,5 @@
 # act8frmproducto
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="931" height="1013" alt="image" src="https://github.com/user-attachments/assets/f0fb7056-eb93-4fd4-93eb-9e37abc4039f" />
+<img width="931" height="1013" alt="image" src="https://github.com/user-attachments/assets/94c0578b-b8ac-45e2-9c15-b79270a41d0f" />
+<img width="931" height="1013" alt="image" src="https://github.com/user-attachments/assets/dca35847-14bd-4645-ac0d-8108aa65537c" />
